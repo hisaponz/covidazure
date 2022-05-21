@@ -1,0 +1,9 @@
+{
+	"name": "covidadf222",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44464bbe-545e-4922-81d1-cefb35262788",
+		"tenantId": "d2190bcd-0cb9-4ceb-8abb-290cda3035d4"
+	}
+}
